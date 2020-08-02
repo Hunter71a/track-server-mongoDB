@@ -1,5 +1,5 @@
 # track-server-mongoDB
-Middleware that connects a react-native GPS tracking app to a mongoDB instance with user authentication and track storage. Meant to be used with [react-native-tracking-app](https://github.com/Hunter71a/track-server-mongoDB) loaded onto IOS or Android device.
+Middleware that connects a react-native GPS tracking app to a mongoDB instance with user authentication and track storage. Meant to be used with [react-native-tracking-app](https://github.com/Hunter71a/react-native-tracking-app) loaded onto IOS or Android device.
 
 Steps to make operational:
 1) replace the user_name and password in the connection string
